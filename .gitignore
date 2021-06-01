@@ -65,3 +65,5 @@ build/
 .history
 .DS_STORE
 .DS_Store
+.idea
+yarn.lock
